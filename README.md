@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alexey Mikhailenko
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning JavaScript, Node.JS, React
+- 🌱 I’m currently learning JavaScript, Node.JS, React, PostgreSQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
